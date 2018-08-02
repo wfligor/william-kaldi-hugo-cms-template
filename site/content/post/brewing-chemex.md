@@ -1,24 +1,21 @@
 ---
-title: A beginners’ guide to brewing with Chemex
-date: 2017-01-04T15:04:10.000Z
+title: A beginners’ guide to getting fat
+date: 2018-08-01T15:04:10.000Z
 description: >-
-  Brewing with a Chemex probably seems like a complicated, time-consuming
-  ordeal, but once you get used to the process, it becomes a soothing ritual
-  that's worth the effort every time.
-image: /img/blog/chemex.jpg
+  Whenever I pass a McDonalds, I can't resist the urge to eat a double double cheeseburger and drink a milkshake. This tutorial will explain the steps to getting fat.
+image: /img/blog/cheeseburger.jpg
 ---
 
-This [week](/wdwdw) we’ll **take** a look at all the steps required to make astonishing meatballs with your hands at home. Meatballs are one of my favorite foods.
+This [week](/wdwdw) we’ll **take** a look at all the steps required to get super fat.
 
-## The little known health benefits of Meatballs
+## Step-by-Step Instructions.
 
-The Chemex Coffeemaker consists of an hourglass-shaped glass flask with a conical funnel-like neck (rather than the cylindrical neck of an Erlenmeyer flask) and uses proprietary filters, made of bonded paper (thicker-gauge paper than the standard paper filters for a drip-method coffeemaker) that removes most of the coffee oils, brewing coffee with a taste that is different than coffee brewed in other coffee-making systems; also, the thicker paper of the Chemex coffee filters may assist in removing cafestol, a cholesterol-containing compound found in coffee oils. Here’s three important tips newbies forget about:
+1. Buy a McDonalds double double cheeseburger.
+2. Buy a McDonalds shake.
+3. Eat the cheeseburger.
+4. Drink the shake.
+5. Vomit.
+6. Repeat steps 1-6.
 
-1. Always buy dedicated Chemex filters.
-2. Use a scale, don’t try to eyeball it.
-3. Never skip preheating the glass.
-4. Timing is key, don’t forget the clock.
+I don't really recommend doing steps 5 and 6. 
 
-The most visually distinctive feature of the Chemex is the heatproof wooden collar around the neck, allowing it to be handled and poured when full of hot water. This is turned, then split in two to allow it to fit around the glass neck. The two pieces are held loosely in place by a tied leather thong. The pieces are not tied tightly and can still move slightly, retained by the shape of the conical glass.
-
-For a design piece that became popular post-war at a time of Modernism and precision manufacture, this juxtaposition of natural wood and the organic nature of a hand-tied knot with the laboratory nature of glassware was a distinctive feature of its appearance.
