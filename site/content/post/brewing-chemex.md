@@ -3,7 +3,7 @@ title: A beginners’ guide to getting fat
 date: 2018-08-01T15:04:10.000Z
 description: >-
   Whenever I pass a McDonalds, I can't resist the urge to eat a double double cheeseburger and drink a milkshake. This tutorial will explain the steps to getting fat.
-image: /img/blog/cheeseburger.jpg
+image: /img/blog/mcdonalds-Bacon-McDouble.jpg
 ---
 
 This [week](/wdwdw) we’ll **take** a look at all the steps required to get super fat.
